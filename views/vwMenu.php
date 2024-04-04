@@ -20,5 +20,6 @@
                 <li><a href="index.php?pg=1006">Soporte</a></li>
             </ul>
         </li>
+        <li class="nav-item"><a class="nav-link" href="index.php?pg=1012">Vender</a></li>
     </ul>
 </nav>
